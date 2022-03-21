@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yongjun042
-- 👀 I’m interested in Front end, UI/UX
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Front end, UX, Windows Application
+- 🌱 I’m currently learning Electron
 - 📫 How to reach me yongjun042@gmail.com
 
 My blog https://yongjun042.github.io/
